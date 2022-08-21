@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokedox/static/css/main.ace85892.css",
+    "main.js": "/pokedox/static/js/main.f6dc33de.js",
+    "static/js/787.7e0b23c5.chunk.js": "/pokedox/static/js/787.7e0b23c5.chunk.js",
+    "index.html": "/pokedox/index.html",
+    "main.ace85892.css.map": "/pokedox/static/css/main.ace85892.css.map",
+    "main.f6dc33de.js.map": "/pokedox/static/js/main.f6dc33de.js.map",
+    "787.7e0b23c5.chunk.js.map": "/pokedox/static/js/787.7e0b23c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ace85892.css",
+    "static/js/main.f6dc33de.js"
+  ]
+}
