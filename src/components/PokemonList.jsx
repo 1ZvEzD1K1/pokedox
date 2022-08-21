@@ -34,7 +34,6 @@ const PokemonList = () => {
       <div className="pokemon-list">
         <div className="list">
           {pokemons.filter((pokemon) => {
-            console.log(pokemon)
             return pokemon.types.reduce((acc, el) => {
               return (acc || el.type.name == filter) || !filter
             }, false)
